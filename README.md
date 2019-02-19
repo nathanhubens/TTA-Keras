@@ -36,15 +36,15 @@ The 5 modified images are :
 
 And the corresponding predictions : 
 
-![Optional Text](../master/Images/tta_pred1.png)
+- Prediction 1: ![Optional Text](../master/Images/tta_pred1.png)
 
-![Optional Text](../master/Images/tta_pred2.png)
+- Prediction 2: ![Optional Text](../master/Images/tta_pred2.png)
 
-![Optional Text](../master/Images/tta_pred3.png)
+- Prediction 3: ![Optional Text](../master/Images/tta_pred3.png)
 
-![Optional Text](../master/Images/tta_pred4.png)
+- Prediction 4: ![Optional Text](../master/Images/tta_pred4.png)
 
-![Optional Text](../master/Images/tta_pred5.png)
+- Prediction 5: ![Optional Text](../master/Images/tta_pred5.png)
 
 
 By now taking the average we have:
